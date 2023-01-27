@@ -1,0 +1,36 @@
+.header {
+  font-family: "Montserrat";
+  background-color: #c27664;
+  color: #0c172e;
+  padding: 15px 30px;
+  text-align: center;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: x-large;
+  max-height: 4rem;
+  letter-spacing: 0.2rem;
+}
+
+.home {
+  float: left;
+}
+
+.login {
+  margin-right: 0;
+  float: right;
+}
+.button {
+  font-size: large;
+  font-family: monospace;
+  background: none;
+  border: none;
+  font-weight: 900;
+}
+
+.login :hover {
+  cursor: pointer;
+}
+
+.home :hover {
+  cursor: pointer;
+}
